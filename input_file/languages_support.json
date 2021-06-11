@@ -1,0 +1,2234 @@
+[{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a116"
+  },
+  "language": "af",
+  "language_name": "Afrikaans",
+  "native_language_name": "Afrikaans",
+  "country_code": "ZA",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a117"
+  },
+  "language": "ar",
+  "language_name": "Arabic",
+  "native_language_name": "العربية",
+  "country_code": "AR",
+  "words_separated": true,
+  "direction": "right_to_left",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a118"
+  },
+  "language": "az",
+  "language_name": "Azerbaijani",
+  "native_language_name": "آذربایجان دیلی",
+  "country_code": "AZ",
+  "words_separated": true,
+  "direction": "right_to_left",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a119"
+  },
+  "language": "ba",
+  "language_name": "Bashkir",
+  "native_language_name": "башҡорт Теле",
+  "country_code": "RU",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a11a"
+  },
+  "language": "be",
+  "language_name": "Belarusian",
+  "native_language_name": "Беларуская мова",
+  "country_code": "BY",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a11b"
+  },
+  "language": "bg",
+  "language_name": "Bulgarian",
+  "native_language_name": "български език",
+  "country_code": "BG",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a11c"
+  },
+  "language": "bn",
+  "language_name": "Bengali",
+  "native_language_name": "বাংলা",
+  "country_code": "BD",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a11d"
+  },
+  "language": "bs",
+  "language_name": "Bosnian",
+  "native_language_name": "Bosanski",
+  "country_code": "BA",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a11e"
+  },
+  "language": "ca",
+  "language_name": "Catalan",
+  "native_language_name": "Català",
+  "country_code": "ES",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a11f"
+  },
+  "language": "cnr",
+  "language_name": "Montenegrin",
+  "native_language_name": "Crnogorski",
+  "country_code": "ME",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a120"
+  },
+  "language": "cs",
+  "language_name": "Czech",
+  "native_language_name": "Český Jazyk",
+  "country_code": "CZ",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a121"
+  },
+  "language": "cv",
+  "language_name": "Chuvash",
+  "native_language_name": "Чӑвашла",
+  "country_code": "RU",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a122"
+  },
+  "language": "cy",
+  "language_name": "Welsh",
+  "native_language_name": "Cymraeg",
+  "country_code": "GB",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a123"
+  },
+  "language": "da",
+  "language_name": "Danish",
+  "native_language_name": "Dansk",
+  "country_code": "DK",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a124"
+  },
+  "language": "de",
+  "language_name": "German",
+  "native_language_name": "Deutsch",
+  "country_code": "DE",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a125"
+  },
+  "language": "el",
+  "language_name": "Greek",
+  "native_language_name": "Νέα Ελληνικά",
+  "country_code": "GR",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a126"
+  },
+  "language": "en",
+  "language_name": "English",
+  "native_language_name": "English",
+  "country_code": "US",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a127"
+  },
+  "language": "eo",
+  "language_name": "Esperanto",
+  "native_language_name": "Esperanto",
+  "country_code": "EO",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a128"
+  },
+  "language": "es",
+  "language_name": "Spanish",
+  "native_language_name": "Español",
+  "country_code": "ES",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a129"
+  },
+  "language": "et",
+  "language_name": "Estonian",
+  "native_language_name": "Eesti Keel",
+  "country_code": "EE",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a12a"
+  },
+  "language": "eu",
+  "language_name": "Basque",
+  "native_language_name": "Euskara",
+  "country_code": "ES",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a12b"
+  },
+  "language": "fa",
+  "language_name": "Persian",
+  "native_language_name": "فارسی",
+  "country_code": "IR",
+  "words_separated": true,
+  "direction": "right_to_left",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a12c"
+  },
+  "language": "fi",
+  "language_name": "Finnish",
+  "native_language_name": "Suomen Kieli",
+  "country_code": "FI",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a12d"
+  },
+  "language": "fr",
+  "language_name": "French",
+  "native_language_name": "Français",
+  "country_code": "FR",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a12e"
+  },
+  "language": "fr-CA",
+  "language_name": "French (Canada)",
+  "native_language_name": "Français Québécois",
+  "country_code": "CA",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a12f"
+  },
+  "language": "ga",
+  "language_name": "Irish",
+  "native_language_name": "Gaeilge",
+  "country_code": "IE",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a130"
+  },
+  "language": "gu",
+  "language_name": "Gujarati",
+  "native_language_name": "ગુજરાતી",
+  "country_code": "IN",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a131"
+  },
+  "language": "he",
+  "language_name": "Hebrew",
+  "native_language_name": "עברית",
+  "country_code": "IL",
+  "words_separated": true,
+  "direction": "right_to_left",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a132"
+  },
+  "language": "hi",
+  "language_name": "Hindi",
+  "native_language_name": "हिन्दी",
+  "country_code": "IN",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a133"
+  },
+  "language": "hr",
+  "language_name": "Croatian",
+  "native_language_name": "Hrvatski",
+  "country_code": "HR",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a134"
+  },
+  "language": "ht",
+  "language_name": "Haitian",
+  "native_language_name": "Kreyòl Ayisyen",
+  "country_code": "HT",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a135"
+  },
+  "language": "hu",
+  "language_name": "Hungarian",
+  "native_language_name": "Magyar Nyelv",
+  "country_code": "HU",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a136"
+  },
+  "language": "hy",
+  "language_name": "Armenian",
+  "native_language_name": "հայերեն",
+  "country_code": "AM",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a137"
+  },
+  "language": "id",
+  "language_name": "Indonesian",
+  "native_language_name": "Bahasa Indonesia",
+  "country_code": "ID",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a138"
+  },
+  "language": "is",
+  "language_name": "Icelandic",
+  "native_language_name": "Íslenska",
+  "country_code": "IS",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a139"
+  },
+  "language": "it",
+  "language_name": "Italian",
+  "native_language_name": "Italiano",
+  "country_code": "IT",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a13a"
+  },
+  "language": "ja",
+  "language_name": "Japanese",
+  "native_language_name": "日本語",
+  "country_code": "JP",
+  "words_separated": false,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a13b"
+  },
+  "language": "ka",
+  "language_name": "Georgian",
+  "native_language_name": "ქართული",
+  "country_code": "GE",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a13c"
+  },
+  "language": "kk",
+  "language_name": "Kazakh",
+  "native_language_name": "қазақ тілі",
+  "country_code": "KZ",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a13d"
+  },
+  "language": "km",
+  "language_name": "Central Khmer",
+  "native_language_name": "ភាសាខ្មែរ",
+  "country_code": "KH",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a13e"
+  },
+  "language": "ko",
+  "language_name": "Korean",
+  "native_language_name": "한국어",
+  "country_code": "KR",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a13f"
+  },
+  "language": "ku",
+  "language_name": "Kurdish",
+  "native_language_name": "کوردی",
+  "country_code": "ku",
+  "words_separated": true,
+  "direction": "right_to_left",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a140"
+  },
+  "language": "ky",
+  "language_name": "Kirghiz",
+  "native_language_name": "кыргызча",
+  "country_code": "KG",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a141"
+  },
+  "language": "lo",
+  "language_name": "Lao",
+  "native_language_name": "ພາສາລາວ",
+  "country_code": "LA",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a142"
+  },
+  "language": "lt",
+  "language_name": "Lithuanian",
+  "native_language_name": "Lietuvių Kalba",
+  "country_code": "LT",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a143"
+  },
+  "language": "lv",
+  "language_name": "Latvian",
+  "native_language_name": "Latviešu Valoda",
+  "country_code": "LV",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a144"
+  },
+  "language": "ml",
+  "language_name": "Malayalam",
+  "native_language_name": "മലയാളം",
+  "country_code": "IN",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a145"
+  },
+  "language": "mn",
+  "language_name": "Mongolian",
+  "native_language_name": "Монгол Хэл",
+  "country_code": "MN",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a146"
+  },
+  "language": "mr",
+  "language_name": "Marathi",
+  "native_language_name": "मराठी",
+  "country_code": "IN",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a147"
+  },
+  "language": "ms",
+  "language_name": "Malay",
+  "native_language_name": "Bahasa Melayu",
+  "country_code": "MY",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a148"
+  },
+  "language": "mt",
+  "language_name": "Maltese",
+  "native_language_name": "Malti",
+  "country_code": "MT",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a149"
+  },
+  "language": "my",
+  "language_name": "Burmese",
+  "native_language_name": "မြန်မာစာ",
+  "country_code": "MM",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a14a"
+  },
+  "language": "nb",
+  "language_name": "Norwegian Bokmal",
+  "native_language_name": "Bokmål",
+  "country_code": "NO",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a14b"
+  },
+  "language": "ne",
+  "language_name": "Nepali",
+  "native_language_name": "नेपाली भाषा",
+  "country_code": "NP",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a14c"
+  },
+  "language": "nl",
+  "language_name": "Dutch",
+  "native_language_name": "Nederlands",
+  "country_code": "NL",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a14d"
+  },
+  "language": "nn",
+  "language_name": "Norwegian Nynorsk",
+  "native_language_name": "Nynorsk",
+  "country_code": "NO",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a14e"
+  },
+  "language": "pa",
+  "language_name": "Punjabi",
+  "native_language_name": "ਪੰਜਾਬੀ",
+  "country_code": "IN",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a14f"
+  },
+  "language": "pa-PK",
+  "language_name": "Punjabi (Shahmukhi script, Pakistan)",
+  "native_language_name": "پنجابی",
+  "country_code": "PK",
+  "words_separated": true,
+  "direction": "right_to_left",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a150"
+  },
+  "language": "pl",
+  "language_name": "Polish",
+  "native_language_name": "Język polski",
+  "country_code": "PL",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a151"
+  },
+  "language": "ps",
+  "language_name": "Pushto",
+  "native_language_name": "پښتو",
+  "country_code": "PS",
+  "words_separated": true,
+  "direction": "right_to_left",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a152"
+  },
+  "language": "pt",
+  "language_name": "Portuguese",
+  "native_language_name": "Português",
+  "country_code": "BR",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a153"
+  },
+  "language": "ro",
+  "language_name": "Romanian",
+  "native_language_name": "Limba Română",
+  "country_code": "RO",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a154"
+  },
+  "language": "ru",
+  "language_name": "Russian",
+  "native_language_name": "Русский язык",
+  "country_code": "RU",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a155"
+  },
+  "language": "si",
+  "language_name": "Sinhala",
+  "native_language_name": "සිංහල",
+  "country_code": "LK",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a156"
+  },
+  "language": "sk",
+  "language_name": "Slovakian",
+  "native_language_name": "Slovenčina",
+  "country_code": "SK",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a157"
+  },
+  "language": "sl",
+  "language_name": "Slovenian",
+  "native_language_name": "Slovenščina",
+  "country_code": "SI",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a158"
+  },
+  "language": "so",
+  "language_name": "Somali",
+  "native_language_name": "اللغة الصومالية",
+  "country_code": "SO",
+  "words_separated": true,
+  "direction": "right_to_left",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a159"
+  },
+  "language": "sq",
+  "language_name": "Albanian",
+  "native_language_name": "Shqip",
+  "country_code": "AL",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a15a"
+  },
+  "language": "sr",
+  "language_name": "Serbian",
+  "native_language_name": "Српски",
+  "country_code": "RS",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a15b"
+  },
+  "language": "sv",
+  "language_name": "Swedish",
+  "native_language_name": "Svenska",
+  "country_code": "SE",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a15c"
+  },
+  "language": "ta",
+  "language_name": "Tamil",
+  "native_language_name": "தமிழ்",
+  "country_code": "IN",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a15d"
+  },
+  "language": "te",
+  "language_name": "Telugu",
+  "native_language_name": "తెలుగు",
+  "country_code": "IN",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a15e"
+  },
+  "language": "th",
+  "language_name": "Thai",
+  "native_language_name": "ภาษาไทย",
+  "country_code": "TH",
+  "words_separated": false,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a15f"
+  },
+  "language": "tl",
+  "language_name": "Tagalog",
+  "native_language_name": "ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔",
+  "country_code": "PH",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": false,
+  "supported_as_target": false,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a160"
+  },
+  "language": "tr",
+  "language_name": "Turkish",
+  "native_language_name": "Türkçe",
+  "country_code": "TR",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a161"
+  },
+  "language": "uk",
+  "language_name": "Ukrainian",
+  "native_language_name": "Українська мова",
+  "country_code": "UA",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a162"
+  },
+  "language": "ur",
+  "language_name": "Urdu",
+  "native_language_name": "اُردُو",
+  "country_code": "PK",
+  "words_separated": true,
+  "direction": "right_to_left",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a163"
+  },
+  "language": "vi",
+  "language_name": "Vietnamese",
+  "native_language_name": "Tiếng Việt",
+  "country_code": "VN",
+  "words_separated": true,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a164"
+  },
+  "language": "zh",
+  "language_name": "Simplified Chinese",
+  "native_language_name": "中文",
+  "country_code": "CN",
+  "words_separated": false,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "609182abd38ef3db7023a165"
+  },
+  "language": "zh-TW",
+  "language_name": "Traditional Chinese",
+  "native_language_name": "古文",
+  "country_code": "TW",
+  "words_separated": false,
+  "direction": "left_to_right",
+  "supported_as_source": true,
+  "supported_as_target": true,
+  "ref_num": "ibm"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a166"
+  },
+  "language_name": "Afrikaans",
+  "language": "af",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a167"
+  },
+  "language_name": "Amharic",
+  "language": "am",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a168"
+  },
+  "language_name": "Arabic",
+  "language": "ar",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a169"
+  },
+  "language_name": "Asturian",
+  "language": "ast",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a16a"
+  },
+  "language_name": "Azerbaijani",
+  "language": "az",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a16b"
+  },
+  "language_name": "Bashkir",
+  "language": "ba",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a16c"
+  },
+  "language_name": "Belarusian",
+  "language": "be",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a16d"
+  },
+  "language_name": "Bulgarian",
+  "language": "bg",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a16e"
+  },
+  "language_name": "Bengali",
+  "language": "bn",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a16f"
+  },
+  "language_name": "Breton",
+  "language": "br",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a170"
+  },
+  "language_name": "Bosnian",
+  "language": "bs",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a171"
+  },
+  "language_name": "Catalan",
+  "language": "ca",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a172"
+  },
+  "language_name": "Valencian",
+  "language": "ca",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a173"
+  },
+  "language_name": "Cebuano",
+  "language": "ceb",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a174"
+  },
+  "language_name": "Czech",
+  "language": "cs",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a175"
+  },
+  "language_name": "Welsh",
+  "language": "cy",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a176"
+  },
+  "language_name": "Danish",
+  "language": "da",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a177"
+  },
+  "language_name": "German",
+  "language": "de",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a178"
+  },
+  "language_name": "Greek",
+  "language": "el",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a179"
+  },
+  "language_name": "English",
+  "language": "en",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a17a"
+  },
+  "language_name": "Spanish",
+  "language": "es",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a17b"
+  },
+  "language_name": "Estonian",
+  "language": "et",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a17c"
+  },
+  "language_name": "Persian",
+  "language": "fa",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a17d"
+  },
+  "language_name": "Fulah",
+  "language": "ff",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a17e"
+  },
+  "language_name": "Finnish",
+  "language": "fi",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a17f"
+  },
+  "language_name": "French",
+  "language": "fr",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a180"
+  },
+  "language_name": "Western Frisian",
+  "language": "fy",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a181"
+  },
+  "language_name": "Irish",
+  "language": "ga",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a182"
+  },
+  "language_name": "Gaelic",
+  "language": "gd",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a183"
+  },
+  "language_name": "Scottish Gaelic",
+  "language": "gd",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a184"
+  },
+  "language_name": "Galician",
+  "language": "gl",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a185"
+  },
+  "language_name": "Gujarati",
+  "language": "gu",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a186"
+  },
+  "language_name": "Hausa",
+  "language": "ha",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a187"
+  },
+  "language_name": "Hebrew",
+  "language": "he",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a188"
+  },
+  "language_name": "Hindi",
+  "language": "hi",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a189"
+  },
+  "language_name": "Croatian",
+  "language": "hr",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a18a"
+  },
+  "language_name": "Haitian",
+  "language": "ht",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a18b"
+  },
+  "language_name": "Haitian Creole",
+  "language": "ht",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a18c"
+  },
+  "language_name": "Hungarian",
+  "language": "hu",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a18d"
+  },
+  "language_name": "Armenian",
+  "language": "hy",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a18e"
+  },
+  "language_name": "Indonesian",
+  "language": "id",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a18f"
+  },
+  "language_name": "Igbo",
+  "language": "ig",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a190"
+  },
+  "language_name": "Iloko",
+  "language": "ilo",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a191"
+  },
+  "language_name": "Icelandic",
+  "language": "is",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a192"
+  },
+  "language_name": "Italian",
+  "language": "it",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a193"
+  },
+  "language_name": "Japanese",
+  "language": "ja",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a194"
+  },
+  "language_name": "Javanese",
+  "language": "jv",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a195"
+  },
+  "language_name": "Georgian",
+  "language": "ka",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a196"
+  },
+  "language_name": "Kazakh",
+  "language": "kk",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a197"
+  },
+  "language_name": "Khmer",
+  "language": "km",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a198"
+  },
+  "language_name": "Central Khmer",
+  "language": "km",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a199"
+  },
+  "language_name": "Kannada",
+  "language": "kn",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a19a"
+  },
+  "language_name": "Korean",
+  "language": "ko",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a19b"
+  },
+  "language_name": "Luxembourgish",
+  "language": "lb",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a19c"
+  },
+  "language_name": "Letzeburgesch",
+  "language": "lb",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a19d"
+  },
+  "language_name": "Ganda",
+  "language": "lg",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a19e"
+  },
+  "language_name": "Lingala",
+  "language": "ln",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a19f"
+  },
+  "language_name": "Lao",
+  "language": "lo",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a0"
+  },
+  "language_name": "Lithuanian",
+  "language": "lt",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a1"
+  },
+  "language_name": "Latvian",
+  "language": "lv",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a2"
+  },
+  "language_name": "Malagasy",
+  "language": "mg",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a3"
+  },
+  "language_name": "Macedonian",
+  "language": "mk",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a4"
+  },
+  "language_name": "Malayalam",
+  "language": "ml",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a5"
+  },
+  "language_name": "Mongolian",
+  "language": "mn",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a6"
+  },
+  "language_name": "Marathi",
+  "language": "mr",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a7"
+  },
+  "language_name": "Malay",
+  "language": "ms",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a8"
+  },
+  "language_name": "Burmese",
+  "language": "my",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1a9"
+  },
+  "language_name": "Nepali",
+  "language": "ne",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1aa"
+  },
+  "language_name": "Dutch",
+  "language": "nl",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1ab"
+  },
+  "language_name": "Flemish",
+  "language": "nl",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1ac"
+  },
+  "language_name": "Norwegian",
+  "language": "no",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1ad"
+  },
+  "language_name": "Northern Sotho",
+  "language": "ns",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1ae"
+  },
+  "language_name": "Occitan",
+  "language": "oc",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1af"
+  },
+  "language_name": "Oriya",
+  "language": "or",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b0"
+  },
+  "language_name": "Panjabi",
+  "language": "pa",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b1"
+  },
+  "language_name": "Punjabi",
+  "language": "pa",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b2"
+  },
+  "language_name": "Polish",
+  "language": "pl",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b3"
+  },
+  "language_name": "Pushto",
+  "language": "ps",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b4"
+  },
+  "language_name": "Pashto",
+  "language": "ps",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b5"
+  },
+  "language_name": "Portuguese",
+  "language": "pt",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b6"
+  },
+  "language_name": "Romanian",
+  "language": "ro",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b7"
+  },
+  "language_name": "Moldavian",
+  "language": "ro",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b8"
+  },
+  "language_name": "Moldovan",
+  "language": "ro",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1b9"
+  },
+  "language_name": "Russian",
+  "language": "ru",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1ba"
+  },
+  "language_name": "Sindhi",
+  "language": "sd",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1bb"
+  },
+  "language_name": "Sinhala",
+  "language": "si",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1bc"
+  },
+  "language_name": "Sinhalese",
+  "language": "si",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1bd"
+  },
+  "language_name": "Slovak",
+  "language": "sk",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1be"
+  },
+  "language_name": "Slovenian",
+  "language": "sl",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1bf"
+  },
+  "language_name": "Somali",
+  "language": "so",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c0"
+  },
+  "language_name": "Albanian",
+  "language": "sq",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c1"
+  },
+  "language_name": "Serbian",
+  "language": "sr",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c2"
+  },
+  "language_name": "Swati",
+  "language": "ss",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c3"
+  },
+  "language_name": "Sundanese",
+  "language": "su",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c4"
+  },
+  "language_name": "Swedish",
+  "language": "sv",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c5"
+  },
+  "language_name": "Swahili",
+  "language": "sw",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c6"
+  },
+  "language_name": "Tamil",
+  "language": "ta",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c7"
+  },
+  "language_name": "Thai",
+  "language": "th",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c8"
+  },
+  "language_name": "Tagalog",
+  "language": "tl",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1c9"
+  },
+  "language_name": "Tswana",
+  "language": "tn",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1ca"
+  },
+  "language_name": "Turkish",
+  "language": "tr",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1cb"
+  },
+  "language_name": "Ukrainian",
+  "language": "uk",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1cc"
+  },
+  "language_name": "Urdu",
+  "language": "ur",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1cd"
+  },
+  "language_name": "Uzbek",
+  "language": "uz",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1ce"
+  },
+  "language_name": "Vietnamese",
+  "language": "vi",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1cf"
+  },
+  "language_name": "Wolof",
+  "language": "wo",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1d0"
+  },
+  "language_name": "Xhosa",
+  "language": "xh",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1d1"
+  },
+  "language_name": "Yiddish",
+  "language": "yi",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1d2"
+  },
+  "language_name": "Yoruba",
+  "language": "yo",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1d3"
+  },
+  "language_name": "Chinese",
+  "language": "zh",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "60918311d38ef3db7023a1d4"
+  },
+  "language_name": "Zulu",
+  "language": "zu",
+  "ref_num": "m2m_100"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1d5"
+  },
+  "language_name": "Arabic",
+  "language": "ar",
+  "country_code": "AR",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1d6"
+  },
+  "language_name": "Czech",
+  "language": "cs",
+  "country_code": "CZ",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1d7"
+  },
+  "language_name": "German",
+  "language": "de",
+  "country_code": "DE",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1d8"
+  },
+  "language_name": "English",
+  "language": "en",
+  "country_code": "XX",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1d9"
+  },
+  "language_name": "Spanish",
+  "language": "es",
+  "country_code": "XX",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1da"
+  },
+  "language_name": "Estonian",
+  "language": "et",
+  "country_code": "EE",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1db"
+  },
+  "language_name": "Finnish",
+  "language": "fi",
+  "country_code": "FI",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1dc"
+  },
+  "language_name": "French",
+  "language": "fr",
+  "country_code": "XX",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1dd"
+  },
+  "language_name": "Gujarati",
+  "language": "gu",
+  "country_code": "IN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1de"
+  },
+  "language_name": "Hindi",
+  "language": "hi",
+  "country_code": "IN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1df"
+  },
+  "language_name": "Italian",
+  "language": "it",
+  "country_code": "IT",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e0"
+  },
+  "language_name": "Japanese",
+  "language": "ja",
+  "country_code": "XX",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e1"
+  },
+  "language_name": "Kazakh",
+  "language": "kk",
+  "country_code": "KZ",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e2"
+  },
+  "language_name": "Korean",
+  "language": "ko",
+  "country_code": "KR",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e3"
+  },
+  "language_name": "Lithuanian",
+  "language": "lt",
+  "country_code": "LT",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e4"
+  },
+  "language_name": "Latvian",
+  "language": "lv",
+  "country_code": "LV",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e5"
+  },
+  "language_name": "Burmese",
+  "language": "my",
+  "country_code": "MM",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e6"
+  },
+  "language_name": "Nepali",
+  "language": "ne",
+  "country_code": "NP",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e7"
+  },
+  "language_name": "Dutch",
+  "language": "nl",
+  "country_code": "XX",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e8"
+  },
+  "language_name": "Romanian",
+  "language": "ro",
+  "country_code": "RO",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1e9"
+  },
+  "language_name": "Russian",
+  "language": "ru",
+  "country_code": "RU",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1ea"
+  },
+  "language_name": "Sinhala",
+  "language": "si",
+  "country_code": "LK",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1eb"
+  },
+  "language_name": "Turkish",
+  "language": "tr",
+  "country_code": "TR",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1ec"
+  },
+  "language_name": "Vietnamese",
+  "language": "vi",
+  "country_code": "VN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1ed"
+  },
+  "language_name": "Chinese",
+  "language": "zh",
+  "country_code": "CN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1ee"
+  },
+  "language_name": "Afrikaans",
+  "language": "af",
+  "country_code": "ZA",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1ef"
+  },
+  "language_name": "Azerbaijani",
+  "language": "az",
+  "country_code": "AZ",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f0"
+  },
+  "language_name": "Bengali",
+  "language": "bn",
+  "country_code": "IN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f1"
+  },
+  "language_name": "Persian",
+  "language": "fa",
+  "country_code": "IR",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f2"
+  },
+  "language_name": "Hebrew",
+  "language": "he",
+  "country_code": "IL",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f3"
+  },
+  "language_name": "Croatian",
+  "language": "hr",
+  "country_code": "HR",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f4"
+  },
+  "language_name": "Indonesian",
+  "language": "id",
+  "country_code": "ID",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f5"
+  },
+  "language_name": "Georgian",
+  "language": "ka",
+  "country_code": "GE",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f6"
+  },
+  "language_name": "Khmer",
+  "language": "km",
+  "country_code": "KH",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f7"
+  },
+  "language_name": "Macedonian",
+  "language": "mk",
+  "country_code": "MK",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f8"
+  },
+  "language_name": "Malayalam",
+  "language": "ml",
+  "country_code": "IN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1f9"
+  },
+  "language_name": "Mongolian",
+  "language": "mn",
+  "country_code": "MN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1fa"
+  },
+  "language_name": "Marathi",
+  "language": "mr",
+  "country_code": "IN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1fb"
+  },
+  "language_name": "Polish",
+  "language": "pl",
+  "country_code": "PL",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1fc"
+  },
+  "language_name": "Pashto",
+  "language": "ps",
+  "country_code": "AF",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1fd"
+  },
+  "language_name": "Portuguese",
+  "language": "pt",
+  "country_code": "XX",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1fe"
+  },
+  "language_name": "Swedish",
+  "language": "sv",
+  "country_code": "SE",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a1ff"
+  },
+  "language_name": "Swahili",
+  "language": "sw",
+  "country_code": "KE",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a200"
+  },
+  "language_name": "Tamil",
+  "language": "ta",
+  "country_code": "IN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a201"
+  },
+  "language_name": "Telugu",
+  "language": "te",
+  "country_code": "IN",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a202"
+  },
+  "language_name": "Thai",
+  "language": "th",
+  "country_code": "TH",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a203"
+  },
+  "language_name": "Tagalog",
+  "language": "tl",
+  "country_code": "XX",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a204"
+  },
+  "language_name": "Ukrainian",
+  "language": "uk",
+  "country_code": "UA",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a205"
+  },
+  "language_name": "Urdu",
+  "language": "ur",
+  "country_code": "PK",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a206"
+  },
+  "language_name": "Xhosa",
+  "language": "xh",
+  "country_code": "ZA",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a207"
+  },
+  "language_name": "Galician",
+  "language": "gl",
+  "country_code": "ES",
+  "ref_num": "mbart_50"
+},{
+  "_id": {
+    "$oid": "6091852bd38ef3db7023a208"
+  },
+  "language_name": "Slovene",
+  "language": "sl",
+  "country_code": "SI",
+  "ref_num": "mbart_50"
+}]
