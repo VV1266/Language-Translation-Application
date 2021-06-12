@@ -6,11 +6,12 @@ import io
 import simplejson
 import base64
 import dl_translate as dlt
-import nltk
+from nltk.data import load
 import newspaper
 from cleantext import clean
 
-nltk.download('punkt')
+tokenizer = load('tokenizers/punkt/{0}.pickle'.format('english'))
+
 model_path = 'en_core_web_sm'
 nlp = spacy.load(model_path)
 nlp.add_pipe(LanguageDetector(), name='language_detector', last=True)
@@ -185,7 +186,7 @@ for model_node in model_type:
             # demo_text = "Hackeri?a pe jumatate rom√¢nca ce face furori √Æn SUA la 12 ani: ‚ÄùSistemul de vot rom√¢nesc este mult mai bun dec√¢t cel american‚Äù"
             MBart_demo_text = "I am unmarried and even though have a son who is unworried about this."
             MBart_demo_text = right_input_box_MBart.text_area('Input the text', MBart_demo_text, height=400, max_chars=1000,key='MBart_50')
-            mbart_sents = nltk.tokenize.sent_tokenize(MBart_demo_text)  # don't use dlt.lang.ENGLISH
+            mbart_sents = tokenize.sent_tokenize(MBart_demo_text)  # don't use dlt.lang.ENGLISH
             trans_text_mbart_50 = " "
             if st.button('Translate',key='MBart_50'):
                 try:
@@ -208,7 +209,7 @@ for model_node in model_type:
             M2M_100_demo_text = "I am unmarried and even though have a son who is unworried about this."
             M2M_100_demo_text = right_input_box_M2M_100.text_area('Input the text', M2M_100_demo_text, height=400,
                                                               max_chars=1000,key='M2M_100')
-            M2M_100_sents = nltk.tokenize.sent_tokenize(M2M_100_demo_text)  # don't use dlt.lang.ENGLISH
+            M2M_100_sents = tokenizer.tokenize(M2M_100_demo_text)  # don't use dlt.lang.ENGLISH
             trans_text_m2m_100 = " "
             if st.button('Translate', key='M2M_100'):
                 try:
@@ -248,7 +249,7 @@ for model_node in model_type:
                 st.subheader('Model: ' + model_node.replace('_',''))
                 target_MBart_50_URL = st.multiselect(label='target language', options=list(mbart_50_json.keys()),
                                             default='German', key='MBart_50_URL')
-                mbart_sents_URL = nltk.tokenize.sent_tokenize(text_extract)  # don't use dlt.lang.ENGLISH
+                mbart_sents_URL = tokenizer.tokenize(text_extract)  # don't use dlt.lang.ENGLISH
                 trans_text_mbart_50_URL = " "
                 if st.button('Translate', key='MBart_50_URL'):
                     fetch_list = query_fetch(set_lang_code(lang_detect['language']), 'mbart_50')
