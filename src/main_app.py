@@ -14,7 +14,7 @@ from cleantext import clean
 
 tokenizer = load('input_file/punkt/{0}.pickle'.format('english'))
 
-model_path = 'Language-Translation-Application/input_file/en_core_web_sm-2.0.0/en_core_web_sm/en_core_web_sm-2.0.0'
+model_path = 'input_file/en_core_web_sm-2.0.0/en_core_web_sm/en_core_web_sm-2.0.0'
 nlp = spacy.load(model_path)
 nlp.add_pipe(LanguageDetector(), name='language_detector', last=True)
 
