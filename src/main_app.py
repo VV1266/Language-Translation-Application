@@ -273,7 +273,7 @@ def main():
                     st.subheader('Model: ' + model_node.replace('_',''))
                     target_M2M_100_URL = st.multiselect(label='target language', options=list(mbart_50_json.keys()),
                                                 default='English', key='M2M_100_URL')
-                    m2m_100_sents_URL = nltk.tokenize.sent_tokenize(text_extract)  # don't use dlt.lang.ENGLISH
+                    m2m_100_sents_URL = tokenizer.tokenize(text_extract)  # don't use dlt.lang.ENGLISH
                     trans_text_m2m_100_URL = " "
                     if st.button('Translate', key='M2M_100_URL'):
                         fetch_list_m2m_100 = query_fetch(set_lang_code(lang_detect['language']), 'm2m_100')
