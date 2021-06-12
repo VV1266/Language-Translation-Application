@@ -10,6 +10,7 @@ import nltk
 import newspaper
 from cleantext import clean
 
+nltk.download('punkt')
 model_path = 'en_core_web_sm'
 nlp = spacy.load(model_path)
 nlp.add_pipe(LanguageDetector(), name='language_detector', last=True)
