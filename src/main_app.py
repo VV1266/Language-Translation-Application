@@ -10,7 +10,7 @@ from nltk.data import load
 import newspaper
 from cleantext import clean
 
-tokenizer = load('tokenizers/punkt/{0}.pickle'.format('english'))
+tokenizer = load('input_file/punkt/{0}.pickle'.format('english'))
 
 model_path = 'en_core_web_sm'
 nlp = spacy.load(model_path)
